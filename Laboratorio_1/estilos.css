@@ -1,0 +1,43 @@
+/* Estilo del fonfo o background */
+body 
+{
+    background-color:bisque;
+}
+
+/* Estilo de tirulos */
+.blue_dark
+{
+    color: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+/* Estilo de parrafo quien soy */
+.parrafo
+{
+    color: black;
+    font-family: cursive;
+    text-align: justify;
+}
+
+/* Centra imagenes y videos */
+.centrar
+{
+    text-align: center;
+}
+
+/* Estilo de parrafo Hobbies */
+.parrafo_gustos
+{
+    color: black;
+    font-family: serif;
+    text-align: justify;
+}
+
+/* Estilo de parrafo familia */
+.parrafos_familia
+{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+}
