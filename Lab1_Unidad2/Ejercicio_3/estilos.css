@@ -1,0 +1,38 @@
+body 
+{
+    background-color:coral;
+    text-align: center;
+}
+
+.titulo 
+{
+    color:darkgoldenrod;
+    text-align: center;
+    font-family: fantasy;
+}
+
+.parrafo
+{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+}
+
+.tabla
+{
+    width: 100%;
+    margin: 0 auto;
+    
+}
+
+.imagen
+{
+    width:550px;    
+    height:470px;
+}
+
+.alinean
+{
+    text-align: center;
+    margin: 0 auto;
+}

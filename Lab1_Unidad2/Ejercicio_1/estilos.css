@@ -1,0 +1,46 @@
+body 
+{
+    background-color:aqua;
+}
+
+tr
+{
+    color:black;
+    background-color:burlywood;
+}
+
+table
+{
+    margin: 0 auto;
+}
+
+.titulo 
+{
+    color:darkgoldenrod;
+    text-align: center;
+    font-family: fantasy;
+}
+
+.parrafo
+{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+}
+
+.tabla
+{
+    text-align: center;
+}
+
+.imagen
+{
+    width:550px;    
+    height:470px;
+}
+
+.alinean
+{
+    text-align: center;
+    margin: 0 auto;
+}

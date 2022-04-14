@@ -1,0 +1,16 @@
+body 
+{
+    background-color:blueviolet;
+}
+
+.titulo 
+{
+    color:darkgoldenrod;
+    text-align: center;
+    font-family: fantasy;
+}
+
+.tabla
+{
+    margin: 0 auto;
+}

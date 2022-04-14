@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- indica el utf-8, para poder mostrar la ñ o los acentos y referencia el archivo de estilos.css -->
+        <meta charset="utf-8">
+        <LINK REL=StyleSheet HREF="estilos.css" TYPE="text/css">
+    </head>
+    <body>
+        <!-- metodo de get (formulario) -->
+        <p>Ingrese valores por metodo get</p>
+        <p>  </p>
+        <form action="formulario.php" method="get">
+            <!-- ingresa el color y el valor de N para la matriz -->
+            Color: <input type="color" name="color">
+            Valor del N: <input type="text" name="valor"><br>
+            <input type="submit" value="Ingresar">
+        </form>
+
+        <!-- <metodo de post (fomrularo) -->
+        <p>  </p>
+        <p>Ingrese valores por metodo post</p>
+        <p>  </p>
+        <form action="formulario.php" method="post">
+            <!-- ingresa el color y el valor  de N para la matriz -->
+            Color: <input type="color" name="color">
+            Valor del N: <input type="text" name="valor"><br>
+            <input type="submit" value="Ingresar">
+        </form>
+    </body>
+</html>
+
