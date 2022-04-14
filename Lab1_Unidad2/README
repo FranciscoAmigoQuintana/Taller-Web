@@ -1,5 +1,5 @@
-Los 4 ejercicios tiene un inde.php, el cual es identificado automaticamente por el navegador, pero en el caso del ejercicio 3, existen un archivo con el nombre de formulario.php ademas de un index.html, y para el caso del ejercicio 4, se necesita descargar un directorio con el nombre Fotos, el codigo en php hace alucion a este directorio, por esto si no esta quiza este abra nada mas que una tabla vacia.
+Los 4 ejercicios tiene un index, el cual es identificado automaticamente por el navegador, pero en el caso del ejercicio 3, existen un archivo con el nombre de formulario.php, y para el caso del ejercicio 4, se necesita descargar un directorio con el nombre Fotos, el codigo en php hace alucion a este directorio, por esto si no esta quiza este abra nada mas que una tabla vacia.
 
-Se probaron el el navegador de Google Chrome y su programacion se realizo con visual studios.
+Se probaron en el navegador de Google Chrome y su programacíon se realizo con visual studios.
 
-El ejercicio 4 lleva sus propias imganes para que su prueba sea de la mejor forma.
+El ejercicio 4 lleva sus propias imagenes.
