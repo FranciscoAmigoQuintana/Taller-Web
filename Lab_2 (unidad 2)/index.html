@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <!-- Cargar archivo externo javascript. -->
+        <script src="mix.js"></script>
+    </head>
+    <body style="background-color:beige">
+        <div>
+            <h2>Menu de ejercicios del laboratorio 2 (Unidad 2)</h2>
+            <ul>
+                <!-- Pequeño menu para poder elegir las funciones del archivo mix.js -->
+                <li><button onclick="imprimir();">Ingresar su nombre</button></li></br>
+                <li><button onclick="sumar();">Sumar numeros</button></li></br>
+                <li><button onclick="mayores();">¿Cual numero es mayor?</button></li></br>
+                <li><button onclick="mayores_serie();">¿Cual de todos es el mayor?</button></li></br>
+                <li><button onclick="divisible();">¿Es divisible en 2?</button></li></br>
+                <li><button onclick="buscar_a();">¿Cuantas letras a tiene una frase?</button></li></br>
+                <li><button onclick="buscar_vocales();">¿Que vocales hay en la frase?</button></li></br>
+                <li><button onclick="cantidad_vocales();">¿cuantas vocales de cada tipo hay en la frase?</button></li></br>
+                <li>
+                    <form>
+                        <p>Selecione de entre las monedas el cambio que sedea realizar</p>
+                        <input type="radio" name="cambio" id="primero"> Dolar
+                        <input type="radio" name="cambio" id="segundo"> Peso
+                        <p>Ingrese la cantidad:</p>
+                        <input type="number" id="monto">
+                        <input type="button" id="boton" id="principal" value="Cambiar" onclick="cambio_moneda()">
+                    </form>
+                </li></br>
+                <li><button onclick="dado();">Lanzar dado</button></br></br>
+                    <img id="foto_dado" src="Imagenes/Dados/cara6.jpg" width="150px" height="auto"></br>
+                </li></br>
+                <li>
+                    <p>Visor de imagenes</p>
+                    <img id="foto" src="Imagenes/Visor/imagen1.jpg" width="500px" height="auto"></br>
+                    <button onclick="bajar()">Anterior</button>
+                    <button onclick="subir()">Siguiente</button>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>
