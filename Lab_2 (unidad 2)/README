@@ -1,0 +1,19 @@
+Corresponde a un codigo de html junto con javascribt, el cual solucionara 11 problemas basicos, como es la busqueda de vocales en frases o hasta la realizacion de un visor de imagenes
+
+El primer archivo es el index.html, en el cual esta el menu de todas las opciones que tiene el programa, hay 11 opciones en total.
+
+En caso del archivo mix.js, este es el mas importante, ya que da toda la funcionalidad al menu en index.html, aqui podemos encontrar 12 funciones las cuales son:
+
+- imprimir()
+- sumar()
+- mayores()
+- mayores_serie()
+- divisible()
+- buscar_a()
+- buscar_vocales()
+- cantidad_vocales()
+- cambio_moneda()
+- dado()
+- subir() y bajas() "funciones que trabajan juntas"
+
+El codigo fue realiza en VisualStudios, y provado junto con en el navegador de Google Chrome.
