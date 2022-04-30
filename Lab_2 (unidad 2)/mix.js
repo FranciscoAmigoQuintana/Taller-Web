@@ -245,7 +245,7 @@ function dado()
     }
 }
 
-// Arreglo con las direciones de las imagenes
+// Arreglo con las direcciones de las imagenes
 var arreglo = new Array("Imagenes/Visor/imagen1.jpg","Imagenes/Visor/imagen2.jpg", "Imagenes/Visor/imagen3.jpg", "Imagenes/Visor/imagen4.jpg", "Imagenes/Visor/imagen5.jpg");
 
 // Variable que nos servira de referencia para mostar imagenes
@@ -254,7 +254,7 @@ var verificador = 1;
 // Funcion que crea el visor de imagenes
 function subir()
 {
-    // Verifica que no se este bsucando un valor menor a 1
+    // Verifica que no se este buscando un valor menor a 1
     if (verificador < 4)
     {
         verificador = verificador+1;
