@@ -17,3 +17,5 @@ En caso del archivo mix.js, este es el mas importante, ya que da toda la funcion
 - subir() y bajas() "funciones que trabajan juntas"
 
 El codigo fue realiza en VisualStudios, y provado junto con en el navegador de Google Chrome.
+
+Tambien se necesitan dos carpetas con las rutas Imagenes/Dados/cara1.png, para el caso de los dados y para el visor la ruta necesaria a suministrar son Imagenes/Visor/imagen1.jpg, por esto se debe tener estas carpetas tal cual se menciona, o sera necesario el cambiar las rutas en los codigos html y js.
